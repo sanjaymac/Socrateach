@@ -35,11 +35,6 @@ Some of the key challenges during the project included:
 - **Python**: The primary language for the assistant’s logic and interaction.
 - **Additional Frameworks**: Optional UI integration using tools like Flask or React (depending on implementation needs).
 
-## Links:
-- **GitHub Repository**: (https://github.com/sanjaymac/Socrateach/)
-- **Documentation**: (Link to detailed documentation, setup, and configuration instructions in Google Drive or similar)
-- **Video Demo**: (Link to a video demonstrating how the AI assistant works, hosted on Google Drive or YouTube)
-
 ## Video Demo:
 - The video demo showcases how a student interacts with the assistant and how the AI uses Socratic questioning to guide the learning process.
 - Use a tool like OBS Studio or Loom to capture the interaction between the AI and the student in your Python environment.
