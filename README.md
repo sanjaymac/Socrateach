@@ -1,5 +1,5 @@
 
-# Socrateach - AI Socratic Teaching Assistant for Sorting Algorithms
+# Socrateach - AI Socratic Teaching Assistant
 
 ## Tagline:
 **"An AI-powered teaching assistant that uses the Socratic method to teach Sorting Algorithms through interactive questioning."**
