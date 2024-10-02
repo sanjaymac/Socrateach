@@ -36,8 +36,7 @@ Some of the key challenges during the project included:
 - **Additional Frameworks**: Optional UI integration using tools like Flask or React (depending on implementation needs).
 
 ## Links:
-- **GitHub Repository**: (Link to your repo)
-- **Figma Design (if applicable)**: (Link to any Figma designs)
+- **GitHub Repository**: (https://github.com/sanjaymac/Socrateach/)
 - **Documentation**: (Link to detailed documentation, setup, and configuration instructions in Google Drive or similar)
 - **Video Demo**: (Link to a video demonstrating how the AI assistant works, hosted on Google Drive or YouTube)
 
